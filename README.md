@@ -1,4 +1,4 @@
-# This Repo Contains:
+# General Data
 
 1. [Meeting Notes](https://github.com/GoToOffice/GeneralDocs/blob/main/MeetingNotes.md)
 2. [General Design Docs](https://github.com/GoToOffice/GeneralDocs/blob/main/GeneralDesign.md)
