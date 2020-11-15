@@ -1,6 +1,6 @@
-Orly - Flutter app page for managers
-Oz - User Enterence 
-Tehila - Technical Design Server
-Eliza - Research grid view and list
-Nissim - Research Network & Rest API
+1. Orly - Flutter app page for managers
+2. Oz - User Enterence 
+3. Tehila - Technical Design Server
+4. Eliza - Research grid view and list
+5. Nissim - Research Network & Rest API
 
