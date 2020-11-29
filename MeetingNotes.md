@@ -1,3 +1,15 @@
+## Meeting 29.11.2020
+1. Orly - Code review for Oz + Talk with Nisso about the api for creating the offices and seats.
+2. Oz - Help with setting up the environment + investigae connecting to outlook
+3. Tehila - Firebase function that creates the user on authentication request in our firebase database.
+4. Eliza - Investigae firebase push notification. (waiting list for seat)
+5. Nissim - Creating the offices and seats api. (Add office, Remove office, Add seat, Remove seat, Create reservation)
+6. Omer - Update resource selection screen UI from firebase.
+
+Backlog:
+1. Create user profile screen.
+2. Connect to our firebase api
+
 ## Meeting 22.11.2020
 1. Orly - Create admin office creation screen
 2. Oz - Reforamt code and make it generic, Fix Email field, investigate how to store user data on firebase authentication object.
