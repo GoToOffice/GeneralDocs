@@ -1,3 +1,12 @@
+## Meeting 17.12.2020
+1. Orly - Pair up with Oz and create a flow between the admin and login page.
+2. Oz - Pair up with Orly and create a flow between the admin and login page.
+3. Tehila - Pair up with Nisso and add the firebase logic into the app.
+4. Eliza - Pair up with Omer and create a flow between the booked seats list and the book a seat page.
+5. Nissim - Pair up with Tehila and add the firebase logic into the app.
+6. Omer -  Pair up with Eliza and create a flow between the booked seats list and the book a seat page.
+
+
 ## Meeting 29.11.2020
 1. Orly - Code review for Oz + Talk with Nisso about the api for creating the offices and seats.
 2. Oz - Help with setting up the environment + investigae connecting to outlook
