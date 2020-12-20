@@ -30,6 +30,10 @@ orly:
 createOffice(office:Office)
 deleteOffice(office:Office)
 List<Office> getOffices()
+//Orly added 20-12
+getOffice(officeId:String)
+updateOffice(officeId:String)
+//End Orly added 20-12
 Office:
 {
 "name":"myOffice",
@@ -39,6 +43,10 @@ Office:
 addSeat(officeId:String, seat:Seat)
 deleteSeat(officeId:String, seatId:String)
 List<Seats> getSeats(officeId:String)
+//Orly added 20-12
+getSeat(seatId:String)
+updateSeat(seatId:String)
+//End Orly added 20-12
 Office getOffice(officeId:String)
 Seat:
 {
