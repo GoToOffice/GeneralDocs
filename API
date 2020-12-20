@@ -1,0 +1,10 @@
+orly:
+createOffice(office:Office)
+Office:
+{
+"name":"myOffice",
+"description":"Best office"
+}
+
+omer:
+List<Seats> getListOfAvailableSeatsForOffice:(officeID:String, date:String, startTime:String)
